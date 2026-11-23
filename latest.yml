@@ -1,8 +1,8 @@
-version: 1.1.3
+version: 1.2.0
 files:
-  - url: EXCARRA-Admin-Setup-1.1.3.exe
-    sha512: +leq6CnxeZABb7IsyttSK+pAeqKQyeypP/zxIaQXy8Q+dnH/o3vtumHNgdgNu2bxeGDiVvVvS/qx3o4/y9GPRA==
-    size: 82583703
-path: EXCARRA-Admin-Setup-1.1.3.exe
-sha512: +leq6CnxeZABb7IsyttSK+pAeqKQyeypP/zxIaQXy8Q+dnH/o3vtumHNgdgNu2bxeGDiVvVvS/qx3o4/y9GPRA==
-releaseDate: '2026-11-23T18:04:38.541Z'
+  - url: EXCARRA-Admin-Setup-1.2.0.exe
+    sha512: PyF5W6q/XmOuF56x9OJ9vNrQyoKvTBPt36/5tWqQhZ01skTUwNMy6P/MqNvMZnXhpxBLqx5S18jNDpp+cUB8dg==
+    size: 82589908
+path: EXCARRA-Admin-Setup-1.2.0.exe
+sha512: PyF5W6q/XmOuF56x9OJ9vNrQyoKvTBPt36/5tWqQhZ01skTUwNMy6P/MqNvMZnXhpxBLqx5S18jNDpp+cUB8dg==
+releaseDate: '2026-11-23T19:06:05.937Z'
